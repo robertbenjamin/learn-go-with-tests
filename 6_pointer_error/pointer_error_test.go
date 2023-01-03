@@ -1,4 +1,4 @@
-package pointererror
+package pointererr
 
 import (
 	"testing"
